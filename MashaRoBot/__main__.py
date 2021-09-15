@@ -106,7 +106,7 @@ buttons = [
     ], 
     
     [   
-        InlineKeyboardButton(text="🔔Uᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ🔔", url="https://t.me/ABOUTVEDMAT"
+        InlineKeyboardButton(text="🔔Uᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ🔔", url="https://t.me/MYSTERIOUS_SUPPORT"
     ),
     ],
 ]
